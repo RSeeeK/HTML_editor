@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HTML_editor_agr">
+    <output-path>$PROJECT_DIR$/../../Jar's/HTML_Editor</output-path>
+    <root id="archive" name="HTML_editor_agr.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../Jar's/HTML_Editor/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="HTML_editor" />
+    </root>
+  </artifact>
+</component>
